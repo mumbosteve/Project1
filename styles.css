@@ -1,0 +1,55 @@
+.eMobilis{
+    color: #ffffff;
+    background-color: #5273f8;
+    font-size: 50px;
+}
+
+#three{color: #f80606}
+
+.first{
+    background-color: lightblue;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.test{
+  display: flex;
+    background-color: lightblue;
+    padding: 50px;
+}
+
+.paragraph1{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.test2{
+    display: flex;
+    background-color: lightpink;
+    padding: 50px;
+    margin-top: 30px;
+
+}
+
+.main{
+    display: flex;
+
+}
+
+.paragraph2{
+    background-color: #f80606;
+    color: white;
+
+}
+
+.paragraph3{
+    background-color: #5273f8;
+}
+
+.paragraph4{
+    background-color: #f6062b;
+}
